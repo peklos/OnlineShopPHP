@@ -6,3 +6,5 @@ Adaptive + bd with user(php+mysql) + ajax in profile + login with cookie
 
 
 I'm just tired of working on this, the template I used to do this contains many many pages that are simply useless and elementary, so I'm going to start to work on my new project, i guess its will be a new online shop, but designed by me with bd, ajax and filtration.
+
+я передумал, продолжаю работу над этим, попозже сделай хост
